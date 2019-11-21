@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "213448050753",
+    "firebase_url": "https://festive-bonsai-223513.firebaseio.com",
+    "project_id": "festive-bonsai-223513",
+    "storage_bucket": "festive-bonsai-223513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213448050753:android:5bf20b48661794c5",
+        "android_client_info": {
+          "package_name": "com.example.cyxw0w.andtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213448050753-eie18svn2j4sa13o4gepnqlqp8b4omq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cyxw0w.andtest",
+            "certificate_hash": "2caec524b911d1363868cbbb729f3304608f31f3"
+          }
+        },
+        {
+          "client_id": "213448050753-1iqgo4cd24omt9h4r7kdavsc115kn2no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGJSDCDY06E59mTqQ6gVW2v2LJjV5Sep4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213448050753-1iqgo4cd24omt9h4r7kdavsc115kn2no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
