@@ -28,10 +28,13 @@ public class MainActivity extends AppCompatActivity
 {
     private DatabaseReference mPostReference;
 
+    String test;
+
     Button button;
     String schedule;
     String place;
     String memo;
+
 
     String id;
     String time;
